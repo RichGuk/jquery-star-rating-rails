@@ -25,7 +25,7 @@ Usage
 
 In your javascript file include the following
 
-require jquery-star-rating
+	require jquery-star-rating
 
 And stylesheet
 
