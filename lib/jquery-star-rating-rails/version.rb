@@ -1,7 +1,7 @@
 module Star
   module Rating
     module Rails
-      VERSION = "0.0.1"
+      VERSION = "4.0.4"
     end
   end
 end
