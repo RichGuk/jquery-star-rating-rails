@@ -1,6 +1,9 @@
 jQuery Star Rating plugin for Rails
 ===
 
+__NOTE: I'm no longer maintaining this gem anymore, if someone wishes to take over then please contact me.__
+
+
 Simple integration of jQuery Star Rating plugin into the asset pipeline.
 
 The original jQuery plugin is [http://www.fyneworks.com/jquery/star-rating/](http://www.fyneworks.com/jquery/star-rating/)
